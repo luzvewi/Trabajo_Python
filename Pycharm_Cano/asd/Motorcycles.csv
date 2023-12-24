@@ -1,5 +1,10 @@
 ID,Brand,Model,Year,Price,pos,erased
-111,toyota,supra, 2023,32353,0,0
-222,mercedes, g31, 2022, 2245,0,1
-a,a,a,a,a,-1
-drhrtjh,rtjrj,jtyj,tyjj,jjj,-1
+333, mercedes,g31,2022,2245,0
+222, mercedea,g31,2022,2245,1
+444, toyota,supra,2023,2353,2
+
+222, mercedea,g31,2022,2245,-1
+222, mercedea,g31,2022,2245,-1
+222, mercedea,g31,2022,2245,-1
+222, mercedea,g31,2022,2245,-1
+111,asfas,213,1234,1231,-1

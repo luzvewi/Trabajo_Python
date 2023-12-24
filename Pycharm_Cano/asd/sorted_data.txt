@@ -1,5 +1,0 @@
-     ID    Brand Model  Year Price  pos        erased
-    222 mercedes   g31  2022  2245    0 0a a a a a -1
-    111   toyota supra  2023 32353    0             0
-      a        a     a     a     a   -1           NaN
-drhrtjh    rtjrj  jtyj  tyjj   jjj   -1           NaN

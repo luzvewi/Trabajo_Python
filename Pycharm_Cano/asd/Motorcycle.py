@@ -15,7 +15,11 @@ class Motorcycle:
         self.model = model
         self.year = year
         self.price = price
-        self.posFile = posFile
+        if posFile is None:
+            Motorcycle._latest_pos_file += 1
+            self.posFile = Motorcycle._latest_pos_file
+        else:
+            self.posFile = posFile
         self.erased = False
 
     def __eq__(self, other_motorcycle):
