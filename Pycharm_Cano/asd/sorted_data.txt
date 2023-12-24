@@ -1,0 +1,9 @@
+ ID     Brand Model  Year  Price  pos  erased
+111     asfas   213  1234   1231   -1     NaN
+333  mercedes   g31  2022   2245    0     NaN
+222  mercedea   g31  2022   2245    1     NaN
+222  mercedea   g31  2022   2245   -1     NaN
+222  mercedea   g31  2022   2245   -1     NaN
+222  mercedea   g31  2022   2245   -1     NaN
+222  mercedea   g31  2022   2245   -1     NaN
+444    toyota supra  2023   2353    2     NaN
